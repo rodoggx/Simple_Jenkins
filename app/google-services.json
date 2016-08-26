@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1075331391306",
+    "firebase_url": "https://rodoggx-firebase.firebaseio.com",
+    "project_id": "rodoggx-firebase",
+    "storage_bucket": "rodoggx-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075331391306:android:68d4fc37e1b4895b",
+        "android_client_info": {
+          "package_name": "com.example.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075331391306-qthrfrom7oo57g7lp0ap9odcnv9ura85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKotAsAYr315fxyH4K3gqa4W-d8MR_bQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
