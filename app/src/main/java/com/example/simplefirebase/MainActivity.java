@@ -17,8 +17,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int y = 5 / 0;
-        Log.d(TAG, "onCreate: Hello World");
+        //int y = 5 / 0;
+
+        Log.d(TAG, "onCreate: Hello World " + y);
 
     }
 
